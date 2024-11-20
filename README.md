@@ -97,7 +97,7 @@
 
      <div class="hideAfterFullscreen">
         <center>
-            <h1 style="margin-top: 25px; color: var(--text-color1)">Geography-10x.com</h1>
+            
        <br>
 		 <div id="agar-surf_970x250">
 			<script type="text/javascript">
